@@ -1,4 +1,4 @@
-# SpendSense: Expense Tracker App
+# SpendSense: Expense Tracker App.
 
 ### Features
 - Users can create seperate accounts to keep track of thier expenses.
